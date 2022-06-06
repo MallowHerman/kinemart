@@ -1,0 +1,22 @@
+2022/06/05-22:55:58.954 938 Reusing MANIFEST C:\Users\Herman\Documents\chatbot\venombot\kinemart\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/05-22:55:58.955 938 Recovering log #237
+2022/06/05-22:55:59.395 938 Reusing old log C:\Users\Herman\Documents\chatbot\venombot\kinemart\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000237.log 
+2022/06/05-22:57:21.001 16b0 Level-0 table #247: started
+2022/06/05-22:57:21.468 16b0 Level-0 table #247: 1305443 bytes OK
+2022/06/05-22:57:21.682 16b0 Delete type=0 #237
+2022/06/05-22:57:21.804 1cdc Compacting 1@1 + 6@2 files
+2022/06/05-22:57:23.472 1cdc Generated table #248@1: 32676 keys, 2250907 bytes
+2022/06/05-22:57:24.981 1cdc Generated table #249@1: 26938 keys, 2258884 bytes
+2022/06/05-22:57:26.381 1cdc Generated table #250@1: 33728 keys, 2255562 bytes
+2022/06/05-22:57:27.799 1cdc Generated table #251@1: 67853 keys, 2279769 bytes
+2022/06/05-22:57:28.749 1cdc Generated table #252@1: 46360 keys, 2197602 bytes
+2022/06/05-22:57:28.974 1cdc Generated table #253@1: 18425 keys, 353250 bytes
+2022/06/05-22:57:28.974 1cdc Compacted 1@1 + 6@2 files => 11595974 bytes
+2022/06/05-22:57:29.040 1cdc compacted to: files[ 0 0 6 0 0 0 0 ]
+2022/06/05-22:57:29.132 1cdc Delete type=2 #239
+2022/06/05-22:57:29.132 1cdc Delete type=2 #240
+2022/06/05-22:57:29.133 1cdc Delete type=2 #241
+2022/06/05-22:57:29.133 1cdc Delete type=2 #242
+2022/06/05-22:57:29.133 1cdc Delete type=2 #243
+2022/06/05-22:57:29.133 1cdc Delete type=2 #244
+2022/06/05-22:57:29.133 1cdc Delete type=2 #247
